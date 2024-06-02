@@ -1,4 +1,4 @@
-## Oiii, como você está? 
+## Oiii, como você está? 👊😁🤔
 ## Seja bem-vindo(a) ao meu perfil!!! 🖐😁👍
 
  <div>
