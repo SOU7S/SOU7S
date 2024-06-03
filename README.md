@@ -2,8 +2,8 @@
 
  <nav>
    <a href="https://github.com/SOU7S">
-   <img height="100%" src="https://github-readme-stats.vercel.app/api?username=SOU7S&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="100%" padding="20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOU7S&layout=compact&langs_count=6&theme=dark"/>
+   <img height="100%" src="https://github-readme-stats.vercel.app/api?username=SOU7S&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><br>
+   <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOU7S&layout=compact&langs_count=6&theme=dark"/>
 </nav>
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="100%" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
